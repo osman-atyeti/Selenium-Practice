@@ -1,4 +1,4 @@
-package com.osman;
+package com.osman.methods;
 
 import java.util.Set;
 

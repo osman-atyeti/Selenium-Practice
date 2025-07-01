@@ -1,4 +1,4 @@
-package com.osman;
+package com.osman.locators;
 
 import java.util.List;
 

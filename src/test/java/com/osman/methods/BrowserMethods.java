@@ -1,4 +1,4 @@
-package com.osman;
+package com.osman.methods;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
